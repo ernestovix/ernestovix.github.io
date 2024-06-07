@@ -88959,13 +88959,13 @@ r=B.at(new B.aT(s,r),!0,r.i("m.E"))
 A.e.fJ(r)
 q=t.z
 p=B.aa2(r,new B.alu(),new B.alv(c),q,q)
-r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/argo_logo.png",A.f5,30,0.3,70),b),b,!0,b,b,b,b,b,b,b,b,b,new B.alw(a0),b,b,b,b),b,b)
+r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/assets/argo_logo.png",A.f5,30,0.3,70),b),b,!0,b,b,b,b,b,b,b,b,b,new B.alw(a0),b,b,b,b),b,b)
 r=B.aI9("Breast Benign biopsies and excisions",a0,c.f.a,r,"3")
 o=t.w
 n=B.bk(a0,b,o).w
 m=B.bk(a0,b,o).w
 l=t.p
-n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,b,40),"copy template",new B.alx(c,p,a0)),B.i5("TEXT",B.fa(A.iu,A.Z,b,40),"generate a text file",new B.aly(c,p,a0)),B.i5("PDF",B.fa(A.iv,A.Z,b,40),"generate a pdf file",new B.alg(c,p,a0)),B.i5("EXCEL",B.fa(A.is,A.Z,b,40),"generate an excel file",new B.alh(c,p,a0))],l),A.Y,A.N,A.E),b),B.A(b,A.m8,A.w,A.R,b,200,b,b,b)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
+n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,b,35),"copy template",new B.alx(c,p,a0)),B.i5("TEXT",B.fa(A.iu,A.Z,b,35),"generate a text file",new B.aly(c,p,a0)),B.i5("PDF",B.fa(A.iv,A.Z,b,35),"generate a pdf file",new B.alg(c,p,a0)),B.i5("EXCEL",B.fa(A.is,A.Z,b,35),"generate an excel file",new B.alh(c,p,a0))],l),A.Y,A.N,A.E),b),B.A(b,A.m8,A.w,A.R,b,200,b,b,b)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
 m=B.bk(a0,b,o).w
 k=B.bk(a0,b,o).w
 s=s.gcn(s)
@@ -89369,13 +89369,13 @@ r=B.at(new B.aT(s,r),!0,r.i("m.E"))
 A.e.fJ(r)
 q=t.z
 p=B.aa2(r,new B.amD(),new B.amE(a0),q,q)
-r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/argo_logo.png",A.f5,30,0.3,70),a1),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new B.amF(a3),a1,a1,a1,a1),a1,a1)
-r=B.aI9("Breast Immunohistochemistry",a3,a0.f.a,r,"14")
+r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/assets/argo_logo.png",A.f5,30,0.3,70),a1),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new B.amF(a3),a1,a1,a1,a1),a1,a1)
+r=B.aI9("Breast Immunohistochemistry",a3,a0.f.a,r,"8")
 o=t.w
 n=B.bk(a3,a1,o).w
 m=B.bk(a3,a1,o).w
 l=t.p
-n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,a1,40),"copy template",new B.amG(a0,p,a3)),B.i5("TEXT",B.fa(A.iu,A.Z,a1,40),"generate a text file",new B.amH(a0,p,a3)),B.i5("PDF",B.fa(A.iv,A.Z,a1,40),"generate a pdf file",new B.amJ(a0,p,a3)),B.i5("EXCEL",B.fa(A.is,A.Z,a1,40),"generate an excel file",new B.amK(a0,p,a3))],l),A.Y,A.N,A.E),a1),B.A(a1,A.m8,A.w,A.R,a1,200,a1,a1,a1)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
+n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,a1,35),"copy template",new B.amG(a0,p,a3)),B.i5("TEXT",B.fa(A.iu,A.Z,a1,35),"generate a text file",new B.amH(a0,p,a3)),B.i5("PDF",B.fa(A.iv,A.Z,a1,35),"generate a pdf file",new B.amJ(a0,p,a3)),B.i5("EXCEL",B.fa(A.is,A.Z,a1,35),"generate an excel file",new B.amK(a0,p,a3))],l),A.Y,A.N,A.E),a1),B.A(a1,A.m8,A.w,A.R,a1,200,a1,a1,a1)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
 m=B.bk(a3,a1,o).w
 k=B.bk(a3,a1,o).w
 s=s.gcn(s)
@@ -90081,13 +90081,13 @@ r=B.at(new B.aT(s,r),!0,r.i("m.E"))
 A.e.fJ(r)
 q=t.z
 p=B.aa2(r,new B.aq1(),new B.aq2(a3),q,q)
-r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/argo_logo.png",A.f5,30,0.3,70),a4),a4,!0,a4,a4,a4,a4,a4,a4,a4,a4,a4,new B.aq3(a6),a4,a4,a4,a4),a4,a4)
+r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/assets/argo_logo.png",A.f5,30,0.3,70),a4),a4,!0,a4,a4,a4,a4,a4,a4,a4,a4,a4,new B.aq3(a6),a4,a4,a4,a4),a4,a4)
 r=B.aI9("Breast Malignant biopsies",a6,a3.f.a,r,"14")
 o=t.w
 n=B.bk(a6,a4,o).w
 m=B.bk(a6,a4,o).w
 l=t.p
-n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,a4,40),"copy template",new B.aq4(a3,p,a6)),B.i5("TEXT",B.fa(A.iu,A.Z,a4,40),"generate a text file",new B.aq5(a3,p,a6)),B.i5("PDF",B.fa(A.iv,A.Z,a4,40),"generate a pdf file",new B.aq6(a3,p,a6)),B.i5("EXCEL",B.fa(A.is,A.Z,a4,40),"generate an excel file",new B.aq7(a3,p,a6))],l),A.Y,A.N,A.E),a4),B.A(a4,A.m8,A.w,A.R,a4,200,a4,a4,a4)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
+n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,a4,35),"copy template",new B.aq4(a3,p,a6)),B.i5("TEXT",B.fa(A.iu,A.Z,a4,35),"generate a text file",new B.aq5(a3,p,a6)),B.i5("PDF",B.fa(A.iv,A.Z,a4,35),"generate a pdf file",new B.aq6(a3,p,a6)),B.i5("EXCEL",B.fa(A.is,A.Z,a4,35),"generate an excel file",new B.aq7(a3,p,a6))],l),A.Y,A.N,A.E),a4),B.A(a4,A.m8,A.w,A.R,a4,200,a4,a4,a4)],l),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
 m=B.bk(a6,a4,o).w
 k=B.bk(a6,a4,o).w
 s=s.gcn(s)
@@ -91882,13 +91882,13 @@ q=t.z
 p=B.aa2(r,new B.azl(),new B.azm(c5),q,q)
 for(r=p.gcn(p),r=r.ga_(r);r.A();){o=r.gI(r)
 for(n=J.as(o.b),o=o.a,m=J.Y(o);n.A();){l=n.gI(n)
-if(m.l(o,"bmmeSummary"))c5.at=c5.at+(B.h(l)+", \t")}}r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/argo_logo.png",A.f5,30,0.3,70),c6),c6,!0,c6,c6,c6,c6,c6,c6,c6,c6,c6,new B.azn(c9),c6,c6,c6,c6),c6,c6)
+if(m.l(o,"bmmeSummary"))c5.at=c5.at+(B.h(l)+", \t")}}r=B.kB(B.py(!1,!0,new B.T(A.fp,B.O6("../assets/assets/argo_logo.png",A.f5,30,0.3,70),c6),c6,!0,c6,c6,c6,c6,c6,c6,c6,c6,c6,new B.azn(c9),c6,c6,c6,c6),c6,c6)
 r=B.aI9("Breast Malignant Mastectomy Excisions",c9,c5.f.a,r,"36")
 o=t.w
 n=B.bk(c9,c6,o).w
 m=B.bk(c9,c6,o).w
 k=t.p
-n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,c6,40),"copy template",new B.azo(c5,p,c9)),B.i5("TEXT",B.fa(A.iu,A.Z,c6,40),"generate a text file",new B.azp(c5,p,c9)),B.i5("PDF",B.fa(A.iv,A.Z,c6,40),"generate a pdf file",new B.azq(c5,p,c9)),B.i5("EXCEL",B.fa(A.is,A.Z,c6,40),"generate an excel file",new B.azr(c5,p,c9))],k),A.Y,A.N,A.E),c6)],k),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
+n=B.eY(B.a0(B.a([new B.T(A.ie,B.a0(B.a([B.i5("COPY",B.fa(A.it,A.Z,c6,35),"copy template",new B.azo(c5,p,c9)),B.i5("TEXT",B.fa(A.iu,A.Z,c6,35),"generate a text file",new B.azp(c5,p,c9)),B.i5("PDF",B.fa(A.iv,A.Z,c6,35),"generate a pdf file",new B.azq(c5,p,c9)),B.i5("EXCEL",B.fa(A.is,A.Z,c6,35),"generate an excel file",new B.azr(c5,p,c9))],k),A.Y,A.N,A.E),c6)],k),A.Y,A.ex,A.E),m.a.b-40,n.a.a*0.1)
 m=B.bk(c9,c6,o).w
 j=B.bk(c9,c6,o).w
 s=s.gcn(s)
