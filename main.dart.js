@@ -103108,8 +103108,8 @@ A.vF.prototype={
 aq(){return new A.a27(B.T)}}
 A.a27.prototype={
 R(a){var s=null,r=$.bgf,q=this.a.c
-r=A.aWW(B.dg,new A.wW("../assets/background/"+r[q],s,s),s,0.3)
-return A.A(s,A.ev(A.a9(A.a([A.ev(A.uu("../assets/foreground/"+$.bhd[q],B.LP,200,0.2,600),s,s),B.Jj,B.JU,B.Jj,B.aPx,B.Ji,A.aSB(B.aPg,new A.aMC(a),s),B.Ji],t.p),B.V,B.a6,B.D),s,s),B.w,s,s,new A.ax(s,r,s,s,s,s,B.X),s,s,s,s,s,s,s)}}
+r=A.aWW(B.dg,new A.wW("../assets/assets/background/"+r[q],s,s),s,0.3)
+return A.A(s,A.ev(A.a9(A.a([A.ev(A.uu("../assets/assets/foreground/"+$.bhd[q],B.LP,200,0.2,600),s,s),B.Jj,B.JU,B.Jj,B.aPx,B.Ji,A.aSB(B.aPg,new A.aMC(a),s),B.Ji],t.p),B.V,B.a6,B.D),s,s),B.w,s,s,new A.ax(s,r,s,s,s,s,B.X),s,s,s,s,s,s,s)}}
 A.aMC.prototype={
 $0(){A.fa(this.a,!1).pc(A.qH(new A.aMB(),!0,null,t.z))},
 $S:0}
